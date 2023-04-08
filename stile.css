@@ -1,0 +1,151 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 4%;
+}
+
+nav.viola ul{
+background-color: rgb(209, 178, 239);
+margin: 1%;
+display: block
+gap 50px;
+font-size: 25px;
+font-size: larger;
+padding: 10px 10px;
+list-style: none;
+}
+
+img{
+    max-width: 100%;
+    text-align: center;
+    width: 1300px;
+    height: 700px;
+    margin-top: 1%;
+}
+
+nav.viola a{
+    display: block;
+    color: rgb(37, 12, 60);
+    text-decoration: none;
+    font-size: xx-large;
+    padding: 14px 16px;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 70px;
+    text-align: center;
+    color: rgb(42, 13, 69);
+}
+
+div.striscia{
+    font-size: 20px;
+    font-size: large
+    color rgb(108, 39, 172);
+    text-align: center
+
+}
+h3{
+    color: #51186b;
+    padding: 20px;
+    background-color: rgb(209, 178, 239);
+}
+
+
+div.secondo{
+    display: flex;
+}
+
+div div div img{
+    max-width: 100%;
+    padding-top:  50px;
+    padding-left: 1%;
+    margin-right: 50px;
+    width: 450px;
+    height: 250px;
+
+}
+div.secondo p{
+    margin-left: 2px;
+    font-size: 20px;
+    margin-right: 30%;
+    color: #51186b;
+    text-align: justify;
+    justify-content: space-between;
+}
+
+h2{
+    font-size: medium;
+    font-size: 30px;
+    color: #440d42;
+    margin-left: 20%;
+
+}
+
+div.terzo{
+    padding: 1px;
+    margin-right: 50px;
+    margin-left: 2px;
+    text-align: left;
+    margin-right: 50%;
+}
+
+
+div.quarto{
+    margin-left: 70%;
+    text-align: left
+    margin-right 2%
+}
+div.quarto p{
+    margin-right: 2%;
+}
+
+h4{
+    text-align: left;
+    color: #440d42;
+    font-size: 30px;
+    margin-left: 20%;
+
+}
+
+div.sesto{
+    padding: 5px;
+    margin-right: 50px;
+    margin-left: 2px;
+    text-align: left;
+    margin-right: 50%;
+}
+
+div.quinto{
+    margin-left: 70%;
+    text-align: left
+}
+div.quinto p{
+    margin-right: 2%;
+}
+
+h5{
+    text-align: left;
+    color: #440d42;
+    font-size: 30px;
+    margin-left: 30%;
+}
+
+footer{
+    background-color: rgb(209, 178, 239);
+    font-size: 20px;
+    padding: 10px 10px 10px 10px; 
+    margin-top: 3%;
+}
+
+footer ul{
+    list-style: none;
+    padding: 10px 10px 10px 10px;
+    font-size: medium
+}
+
+footer a{
+    text-decoration: none;
+    color:rgb(37, 12, 60);
+    padding: 10px 10px 10px 10px;
+    font-size: medium
+}
